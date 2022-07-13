@@ -12,7 +12,7 @@ body {
 body {
     display: grid;
     place-items: center;
-    background: url(/Images/karsten-wurth-7BjhtdogU3A-unsplash.jpg) #131419;
+    background: url(Images/karsten-wurth-7BjhtdogU3A-unsplash.jpg);
 }
 
 .clock {
